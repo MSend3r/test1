@@ -1,0 +1,14 @@
+{
+  "name": "room-redesigner",
+  "version": "1.0.0",
+  "description": "Snap photos of a space, tell it your budget and comfort goals, get a full redesign plan.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=20.12"
+  }
+}
